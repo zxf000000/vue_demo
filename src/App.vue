@@ -22,7 +22,12 @@
           </v-icon>
           <v-list-item-title>Animation</v-list-item-title>
         </v-list-item>
-
+        <v-list-item link to="/bug">
+          <v-icon>
+            mdi-image
+          </v-icon>
+          <v-list-item-title>BUG</v-list-item-title>
+        </v-list-item>
       </v-list>
     </v-navigation-drawer>
     <v-app-bar
